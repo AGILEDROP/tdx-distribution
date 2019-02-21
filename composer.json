@@ -48,7 +48,7 @@
         "drupal/console": "^1.0.2",
         "drupal/core": "~8.6",
         "drupal/ctools": "^3.0",
-        "drupal/devel": "^1.2",
+        "drupal/devel": "^2.0",
         "drupal/dropzonejs": "2.0-alpha3",
         "drupal/entity_embed": "^1.0@beta",
         "drupal/embed": "^1.0",
