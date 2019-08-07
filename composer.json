@@ -76,7 +76,7 @@
         "drupal/swiftmailer": "^1.0@beta",
         "drupal/switch_page_theme": "^1.0",
         "drupal/tab_toolbar": "^1.0@beta",
-        "drupal/viewsreference": "2.0@alpha",
+        "drupal/viewsreference": "2.x-dev",
         "drupal/webform": "^5.3",
         "oomphinc/composer-installers-extender": "^1.1",
         "webflo/drupal-finder": "^1.0.0",
